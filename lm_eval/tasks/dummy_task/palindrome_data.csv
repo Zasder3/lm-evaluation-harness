@@ -1,0 +1,346 @@
+
+question,answer
+How many times does the letter 'a' appear in the word 'banana'?,3
+How many times does the letter 'b' appear in the word 'banana'?,1
+How many times does the letter 'n' appear in the word 'banana'?,2
+How many times does the letter 'a' appear in the word 'guanabana'?,4
+How many times does the letter 'b' appear in the word 'guanabana'?,1
+How many times does the letter 'g' appear in the word 'guanabana'?,1
+How many times does the letter 'n' appear in the word 'guanabana'?,2
+How many times does the letter 'u' appear in the word 'guanabana'?,1
+How many times does the letter 'a' appear in the word 'xigua'?,1
+How many times does the letter 'g' appear in the word 'xigua'?,1
+How many times does the letter 'i' appear in the word 'xigua'?,1
+How many times does the letter 'u' appear in the word 'xigua'?,1
+How many times does the letter 'x' appear in the word 'xigua'?,1
+How many times does the letter 'a' appear in the word 'mangosteen'?,1
+How many times does the letter 'e' appear in the word 'mangosteen'?,2
+How many times does the letter 'g' appear in the word 'mangosteen'?,1
+How many times does the letter 'm' appear in the word 'mangosteen'?,1
+How many times does the letter 'n' appear in the word 'mangosteen'?,2
+How many times does the letter 'o' appear in the word 'mangosteen'?,1
+How many times does the letter 's' appear in the word 'mangosteen'?,1
+How many times does the letter 't' appear in the word 'mangosteen'?,1
+How many times does the letter 'c' appear in the word 'quince'?,1
+How many times does the letter 'e' appear in the word 'quince'?,1
+How many times does the letter 'i' appear in the word 'quince'?,1
+How many times does the letter 'n' appear in the word 'quince'?,1
+How many times does the letter 'q' appear in the word 'quince'?,1
+How many times does the letter 'u' appear in the word 'quince'?,1
+How many times does the letter 'd' appear in the word 'honeydew melon'?,1
+How many times does the letter 'e' appear in the word 'honeydew melon'?,3
+How many times does the letter 'h' appear in the word 'honeydew melon'?,1
+How many times does the letter 'l' appear in the word 'honeydew melon'?,1
+How many times does the letter 'm' appear in the word 'honeydew melon'?,1
+How many times does the letter 'n' appear in the word 'honeydew melon'?,2
+How many times does the letter 'o' appear in the word 'honeydew melon'?,2
+How many times does the letter 'w' appear in the word 'honeydew melon'?,1
+How many times does the letter 'y' appear in the word 'honeydew melon'?,1
+How many times does the letter 'f' appear in the word 'fig'?,1
+How many times does the letter 'g' appear in the word 'fig'?,1
+How many times does the letter 'i' appear in the word 'fig'?,1
+How many times does the letter 'h' appear in the word 'ziziphus'?,1
+How many times does the letter 'i' appear in the word 'ziziphus'?,2
+How many times does the letter 'p' appear in the word 'ziziphus'?,1
+How many times does the letter 's' appear in the word 'ziziphus'?,1
+How many times does the letter 'u' appear in the word 'ziziphus'?,1
+How many times does the letter 'z' appear in the word 'ziziphus'?,2
+How many times does the letter 'a' appear in the word 'yellow passionfruit'?,1
+How many times does the letter 'e' appear in the word 'yellow passionfruit'?,1
+How many times does the letter 'f' appear in the word 'yellow passionfruit'?,1
+How many times does the letter 'i' appear in the word 'yellow passionfruit'?,2
+How many times does the letter 'l' appear in the word 'yellow passionfruit'?,2
+How many times does the letter 'n' appear in the word 'yellow passionfruit'?,1
+How many times does the letter 'o' appear in the word 'yellow passionfruit'?,2
+How many times does the letter 'p' appear in the word 'yellow passionfruit'?,1
+How many times does the letter 'r' appear in the word 'yellow passionfruit'?,1
+How many times does the letter 's' appear in the word 'yellow passionfruit'?,2
+How many times does the letter 't' appear in the word 'yellow passionfruit'?,1
+How many times does the letter 'u' appear in the word 'yellow passionfruit'?,1
+How many times does the letter 'w' appear in the word 'yellow passionfruit'?,1
+How many times does the letter 'y' appear in the word 'yellow passionfruit'?,1
+How many times does the letter 'a' appear in the word 'currant'?,1
+How many times does the letter 'c' appear in the word 'currant'?,1
+How many times does the letter 'n' appear in the word 'currant'?,1
+How many times does the letter 'r' appear in the word 'currant'?,2
+How many times does the letter 't' appear in the word 'currant'?,1
+How many times does the letter 'u' appear in the word 'currant'?,1
+How many times does the letter 'f' appear in the word 'ugli fruit'?,1
+How many times does the letter 'g' appear in the word 'ugli fruit'?,1
+How many times does the letter 'i' appear in the word 'ugli fruit'?,2
+How many times does the letter 'l' appear in the word 'ugli fruit'?,1
+How many times does the letter 'r' appear in the word 'ugli fruit'?,1
+How many times does the letter 't' appear in the word 'ugli fruit'?,1
+How many times does the letter 'u' appear in the word 'ugli fruit'?,2
+How many times does the letter 'a' appear in the word 'tangelo'?,1
+How many times does the letter 'e' appear in the word 'tangelo'?,1
+How many times does the letter 'g' appear in the word 'tangelo'?,1
+How many times does the letter 'l' appear in the word 'tangelo'?,1
+How many times does the letter 'n' appear in the word 'tangelo'?,1
+How many times does the letter 'o' appear in the word 'tangelo'?,1
+How many times does the letter 't' appear in the word 'tangelo'?,1
+How many times does the letter 'e' appear in the word 'lemon'?,1
+How many times does the letter 'l' appear in the word 'lemon'?,1
+How many times does the letter 'm' appear in the word 'lemon'?,1
+How many times does the letter 'n' appear in the word 'lemon'?,1
+How many times does the letter 'o' appear in the word 'lemon'?,1
+How many times does the letter 'a' appear in the word 'tangerine'?,1
+How many times does the letter 'e' appear in the word 'tangerine'?,2
+How many times does the letter 'g' appear in the word 'tangerine'?,1
+How many times does the letter 'i' appear in the word 'tangerine'?,1
+How many times does the letter 'n' appear in the word 'tangerine'?,2
+How many times does the letter 'r' appear in the word 'tangerine'?,1
+How many times does the letter 't' appear in the word 'tangerine'?,1
+How many times does the letter 'a' appear in the word 'watermelon'?,1
+How many times does the letter 'e' appear in the word 'watermelon'?,2
+How many times does the letter 'l' appear in the word 'watermelon'?,1
+How many times does the letter 'm' appear in the word 'watermelon'?,1
+How many times does the letter 'n' appear in the word 'watermelon'?,1
+How many times does the letter 'o' appear in the word 'watermelon'?,1
+How many times does the letter 'r' appear in the word 'watermelon'?,1
+How many times does the letter 't' appear in the word 'watermelon'?,1
+How many times does the letter 'w' appear in the word 'watermelon'?,1
+How many times does the letter 'a' appear in the word 'mango'?,1
+How many times does the letter 'g' appear in the word 'mango'?,1
+How many times does the letter 'm' appear in the word 'mango'?,1
+How many times does the letter 'n' appear in the word 'mango'?,1
+How many times does the letter 'o' appear in the word 'mango'?,1
+How many times does the letter 'a' appear in the word 'apple'?,1
+How many times does the letter 'e' appear in the word 'apple'?,1
+How many times does the letter 'l' appear in the word 'apple'?,1
+How many times does the letter 'p' appear in the word 'apple'?,2
+How many times does the letter 'a' appear in the word 'papaya'?,3
+How many times does the letter 'p' appear in the word 'papaya'?,2
+How many times does the letter 'y' appear in the word 'papaya'?,1
+How many times does the letter 'c' appear in the word 'cherry'?,1
+How many times does the letter 'e' appear in the word 'cherry'?,1
+How many times does the letter 'h' appear in the word 'cherry'?,1
+How many times does the letter 'r' appear in the word 'cherry'?,2
+How many times does the letter 'y' appear in the word 'cherry'?,1
+How many times does the letter 'a' appear in the word 'raspberry'?,1
+How many times does the letter 'b' appear in the word 'raspberry'?,1
+How many times does the letter 'e' appear in the word 'raspberry'?,1
+How many times does the letter 'p' appear in the word 'raspberry'?,1
+How many times does the letter 'r' appear in the word 'raspberry'?,3
+How many times does the letter 's' appear in the word 'raspberry'?,1
+How many times does the letter 'y' appear in the word 'raspberry'?,1
+How many times does the letter 'a' appear in the word 'dragon fruit'?,1
+How many times does the letter 'd' appear in the word 'dragon fruit'?,1
+How many times does the letter 'f' appear in the word 'dragon fruit'?,1
+How many times does the letter 'g' appear in the word 'dragon fruit'?,1
+How many times does the letter 'i' appear in the word 'dragon fruit'?,1
+How many times does the letter 'n' appear in the word 'dragon fruit'?,1
+How many times does the letter 'o' appear in the word 'dragon fruit'?,1
+How many times does the letter 'r' appear in the word 'dragon fruit'?,2
+How many times does the letter 't' appear in the word 'dragon fruit'?,1
+How many times does the letter 'u' appear in the word 'dragon fruit'?,1
+How many times does the letter 'u' appear in the word 'yuzu'?,2
+How many times does the letter 'y' appear in the word 'yuzu'?,1
+How many times does the letter 'z' appear in the word 'yuzu'?,1
+How many times does the letter 'a' appear in the word 'orange'?,1
+How many times does the letter 'e' appear in the word 'orange'?,1
+How many times does the letter 'g' appear in the word 'orange'?,1
+How many times does the letter 'n' appear in the word 'orange'?,1
+How many times does the letter 'o' appear in the word 'orange'?,1
+How many times does the letter 'r' appear in the word 'orange'?,1
+How many times does the letter 'a' appear in the word 'grapefruit'?,1
+How many times does the letter 'e' appear in the word 'grapefruit'?,1
+How many times does the letter 'f' appear in the word 'grapefruit'?,1
+How many times does the letter 'g' appear in the word 'grapefruit'?,1
+How many times does the letter 'i' appear in the word 'grapefruit'?,1
+How many times does the letter 'p' appear in the word 'grapefruit'?,1
+How many times does the letter 'r' appear in the word 'grapefruit'?,2
+How many times does the letter 't' appear in the word 'grapefruit'?,1
+How many times does the letter 'u' appear in the word 'grapefruit'?,1
+How many times does the letter 'd' appear in the word 'lemon drop'?,1
+How many times does the letter 'e' appear in the word 'lemon drop'?,1
+How many times does the letter 'l' appear in the word 'lemon drop'?,1
+How many times does the letter 'm' appear in the word 'lemon drop'?,1
+How many times does the letter 'n' appear in the word 'lemon drop'?,1
+How many times does the letter 'o' appear in the word 'lemon drop'?,2
+How many times does the letter 'p' appear in the word 'lemon drop'?,1
+How many times does the letter 'r' appear in the word 'lemon drop'?,1
+How many times does the letter 'a' appear in the word 'wax apple'?,2
+How many times does the letter 'e' appear in the word 'wax apple'?,1
+How many times does the letter 'l' appear in the word 'wax apple'?,1
+How many times does the letter 'p' appear in the word 'wax apple'?,2
+How many times does the letter 'w' appear in the word 'wax apple'?,1
+How many times does the letter 'x' appear in the word 'wax apple'?,1
+How many times does the letter 'c' appear in the word 'clementine'?,1
+How many times does the letter 'e' appear in the word 'clementine'?,3
+How many times does the letter 'i' appear in the word 'clementine'?,1
+How many times does the letter 'l' appear in the word 'clementine'?,1
+How many times does the letter 'm' appear in the word 'clementine'?,1
+How many times does the letter 'n' appear in the word 'clementine'?,2
+How many times does the letter 't' appear in the word 'clementine'?,1
+How many times does the letter 'c' appear in the word 'zucchini'?,2
+How many times does the letter 'h' appear in the word 'zucchini'?,1
+How many times does the letter 'i' appear in the word 'zucchini'?,2
+How many times does the letter 'n' appear in the word 'zucchini'?,1
+How many times does the letter 'u' appear in the word 'zucchini'?,1
+How many times does the letter 'z' appear in the word 'zucchini'?,1
+How many times does the letter 'i' appear in the word 'kiwi'?,2
+How many times does the letter 'k' appear in the word 'kiwi'?,1
+How many times does the letter 'w' appear in the word 'kiwi'?,1
+How many times does the letter 'a' appear in the word 'guava'?,2
+How many times does the letter 'g' appear in the word 'guava'?,1
+How many times does the letter 'u' appear in the word 'guava'?,1
+How many times does the letter 'v' appear in the word 'guava'?,1
+How many times does the letter 'a' appear in the word 'strawberry'?,1
+How many times does the letter 'b' appear in the word 'strawberry'?,1
+How many times does the letter 'e' appear in the word 'strawberry'?,1
+How many times does the letter 'r' appear in the word 'strawberry'?,3
+How many times does the letter 's' appear in the word 'strawberry'?,1
+How many times does the letter 't' appear in the word 'strawberry'?,1
+How many times does the letter 'w' appear in the word 'strawberry'?,1
+How many times does the letter 'y' appear in the word 'strawberry'?,1
+How many times does the letter 'a' appear in the word 'kumquat'?,1
+How many times does the letter 'k' appear in the word 'kumquat'?,1
+How many times does the letter 'm' appear in the word 'kumquat'?,1
+How many times does the letter 'q' appear in the word 'kumquat'?,1
+How many times does the letter 't' appear in the word 'kumquat'?,1
+How many times does the letter 'u' appear in the word 'kumquat'?,2
+How many times does the letter 'a' appear in the word 'pomegranate'?,2
+How many times does the letter 'e' appear in the word 'pomegranate'?,2
+How many times does the letter 'g' appear in the word 'pomegranate'?,1
+How many times does the letter 'm' appear in the word 'pomegranate'?,1
+How many times does the letter 'n' appear in the word 'pomegranate'?,1
+How many times does the letter 'o' appear in the word 'pomegranate'?,1
+How many times does the letter 'p' appear in the word 'pomegranate'?,1
+How many times does the letter 'r' appear in the word 'pomegranate'?,1
+How many times does the letter 't' appear in the word 'pomegranate'?,1
+How many times does the letter 'b' appear in the word 'boysenberry'?,2
+How many times does the letter 'e' appear in the word 'boysenberry'?,2
+How many times does the letter 'n' appear in the word 'boysenberry'?,1
+How many times does the letter 'o' appear in the word 'boysenberry'?,1
+How many times does the letter 'r' appear in the word 'boysenberry'?,2
+How many times does the letter 's' appear in the word 'boysenberry'?,1
+How many times does the letter 'y' appear in the word 'boysenberry'?,2
+How many times does the letter 'o' appear in the word 'soursop'?,2
+How many times does the letter 'p' appear in the word 'soursop'?,1
+How many times does the letter 'r' appear in the word 'soursop'?,1
+How many times does the letter 's' appear in the word 'soursop'?,2
+How many times does the letter 'u' appear in the word 'soursop'?,1
+How many times does the letter 'a' appear in the word 'apricot'?,1
+How many times does the letter 'c' appear in the word 'apricot'?,1
+How many times does the letter 'i' appear in the word 'apricot'?,1
+How many times does the letter 'o' appear in the word 'apricot'?,1
+How many times does the letter 'p' appear in the word 'apricot'?,1
+How many times does the letter 'r' appear in the word 'apricot'?,1
+How many times does the letter 't' appear in the word 'apricot'?,1
+How many times does the letter 'd' appear in the word 'honeydew'?,1
+How many times does the letter 'e' appear in the word 'honeydew'?,2
+How many times does the letter 'h' appear in the word 'honeydew'?,1
+How many times does the letter 'n' appear in the word 'honeydew'?,1
+How many times does the letter 'o' appear in the word 'honeydew'?,1
+How many times does the letter 'w' appear in the word 'honeydew'?,1
+How many times does the letter 'y' appear in the word 'honeydew'?,1
+How many times does the letter 'a' appear in the word 'cantaloupe'?,2
+How many times does the letter 'c' appear in the word 'cantaloupe'?,1
+How many times does the letter 'e' appear in the word 'cantaloupe'?,1
+How many times does the letter 'l' appear in the word 'cantaloupe'?,1
+How many times does the letter 'n' appear in the word 'cantaloupe'?,1
+How many times does the letter 'o' appear in the word 'cantaloupe'?,1
+How many times does the letter 'p' appear in the word 'cantaloupe'?,1
+How many times does the letter 't' appear in the word 'cantaloupe'?,1
+How many times does the letter 'u' appear in the word 'cantaloupe'?,1
+How many times does the letter 'a' appear in the word 'velvet apple'?,1
+How many times does the letter 'e' appear in the word 'velvet apple'?,3
+How many times does the letter 'l' appear in the word 'velvet apple'?,2
+How many times does the letter 'p' appear in the word 'velvet apple'?,2
+How many times does the letter 't' appear in the word 'velvet apple'?,1
+How many times does the letter 'v' appear in the word 'velvet apple'?,2
+How many times does the letter 'a' appear in the word 'icecream'?,1
+How many times does the letter 'c' appear in the word 'icecream'?,2
+How many times does the letter 'e' appear in the word 'icecream'?,2
+How many times does the letter 'i' appear in the word 'icecream'?,1
+How many times does the letter 'm' appear in the word 'icecream'?,1
+How many times does the letter 'r' appear in the word 'icecream'?,1
+How many times does the letter 'b' appear in the word 'blueberry'?,2
+How many times does the letter 'e' appear in the word 'blueberry'?,2
+How many times does the letter 'l' appear in the word 'blueberry'?,1
+How many times does the letter 'r' appear in the word 'blueberry'?,2
+How many times does the letter 'u' appear in the word 'blueberry'?,1
+How many times does the letter 'y' appear in the word 'blueberry'?,1
+How many times does the letter 'a' appear in the word 'grape'?,1
+How many times does the letter 'e' appear in the word 'grape'?,1
+How many times does the letter 'g' appear in the word 'grape'?,1
+How many times does the letter 'p' appear in the word 'grape'?,1
+How many times does the letter 'r' appear in the word 'grape'?,1
+How many times does the letter 'a' appear in the word 'pineapple'?,1
+How many times does the letter 'e' appear in the word 'pineapple'?,2
+How many times does the letter 'i' appear in the word 'pineapple'?,1
+How many times does the letter 'l' appear in the word 'pineapple'?,1
+How many times does the letter 'n' appear in the word 'pineapple'?,1
+How many times does the letter 'p' appear in the word 'pineapple'?,3
+How many times does the letter 'b' appear in the word 'elderberry'?,1
+How many times does the letter 'd' appear in the word 'elderberry'?,1
+How many times does the letter 'e' appear in the word 'elderberry'?,3
+How many times does the letter 'l' appear in the word 'elderberry'?,1
+How many times does the letter 'r' appear in the word 'elderberry'?,3
+How many times does the letter 'y' appear in the word 'elderberry'?,1
+How many times does the letter 'd' appear in the word 'rhododendron'?,3
+How many times does the letter 'e' appear in the word 'rhododendron'?,1
+How many times does the letter 'h' appear in the word 'rhododendron'?,1
+How many times does the letter 'n' appear in the word 'rhododendron'?,2
+How many times does the letter 'o' appear in the word 'rhododendron'?,3
+How many times does the letter 'r' appear in the word 'rhododendron'?,2
+How many times does the letter 'a' appear in the word 'victoria plum'?,1
+How many times does the letter 'c' appear in the word 'victoria plum'?,1
+How many times does the letter 'i' appear in the word 'victoria plum'?,2
+How many times does the letter 'l' appear in the word 'victoria plum'?,1
+How many times does the letter 'm' appear in the word 'victoria plum'?,1
+How many times does the letter 'o' appear in the word 'victoria plum'?,1
+How many times does the letter 'p' appear in the word 'victoria plum'?,1
+How many times does the letter 'r' appear in the word 'victoria plum'?,1
+How many times does the letter 't' appear in the word 'victoria plum'?,1
+How many times does the letter 'u' appear in the word 'victoria plum'?,1
+How many times does the letter 'v' appear in the word 'victoria plum'?,1
+How many times does the letter 'a' appear in the word 'jackfruit'?,1
+How many times does the letter 'c' appear in the word 'jackfruit'?,1
+How many times does the letter 'f' appear in the word 'jackfruit'?,1
+How many times does the letter 'i' appear in the word 'jackfruit'?,1
+How many times does the letter 'j' appear in the word 'jackfruit'?,1
+How many times does the letter 'k' appear in the word 'jackfruit'?,1
+How many times does the letter 'r' appear in the word 'jackfruit'?,1
+How many times does the letter 't' appear in the word 'jackfruit'?,1
+How many times does the letter 'u' appear in the word 'jackfruit'?,1
+How many times does the letter 'e' appear in the word 'persimmon'?,1
+How many times does the letter 'i' appear in the word 'persimmon'?,1
+How many times does the letter 'm' appear in the word 'persimmon'?,2
+How many times does the letter 'n' appear in the word 'persimmon'?,1
+How many times does the letter 'o' appear in the word 'persimmon'?,1
+How many times does the letter 'p' appear in the word 'persimmon'?,1
+How many times does the letter 'r' appear in the word 'persimmon'?,1
+How many times does the letter 's' appear in the word 'persimmon'?,1
+How many times does the letter 'a' appear in the word 'nectarine'?,1
+How many times does the letter 'c' appear in the word 'nectarine'?,1
+How many times does the letter 'e' appear in the word 'nectarine'?,2
+How many times does the letter 'i' appear in the word 'nectarine'?,1
+How many times does the letter 'n' appear in the word 'nectarine'?,2
+How many times does the letter 'r' appear in the word 'nectarine'?,1
+How many times does the letter 't' appear in the word 'nectarine'?,1
+How many times does the letter 'a' appear in the word 'loquat'?,1
+How many times does the letter 'l' appear in the word 'loquat'?,1
+How many times does the letter 'o' appear in the word 'loquat'?,1
+How many times does the letter 'q' appear in the word 'loquat'?,1
+How many times does the letter 't' appear in the word 'loquat'?,1
+How many times does the letter 'u' appear in the word 'loquat'?,1
+How many times does the letter 'a' appear in the word 'acerola cherry'?,2
+How many times does the letter 'c' appear in the word 'acerola cherry'?,2
+How many times does the letter 'e' appear in the word 'acerola cherry'?,2
+How many times does the letter 'h' appear in the word 'acerola cherry'?,1
+How many times does the letter 'l' appear in the word 'acerola cherry'?,1
+How many times does the letter 'o' appear in the word 'acerola cherry'?,1
+How many times does the letter 'r' appear in the word 'acerola cherry'?,3
+How many times does the letter 'y' appear in the word 'acerola cherry'?,1
+How many times does the letter 'a' appear in the word 'date'?,1
+How many times does the letter 'd' appear in the word 'date'?,1
+How many times does the letter 'e' appear in the word 'date'?,1
+How many times does the letter 't' appear in the word 'date'?,1
+How many times does the letter 'a' appear in the word 'feijoa'?,1
+How many times does the letter 'e' appear in the word 'feijoa'?,1
+How many times does the letter 'f' appear in the word 'feijoa'?,1
+How many times does the letter 'i' appear in the word 'feijoa'?,1
+How many times does the letter 'j' appear in the word 'feijoa'?,1
+How many times does the letter 'o' appear in the word 'feijoa'?,1

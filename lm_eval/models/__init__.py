@@ -13,6 +13,7 @@ from . import (
     neuralmagic,
     neuron_optimum,
     openai_completions,
+    openrouter_api,
     optimum_ipex,
     optimum_lm,
     sglang_causallms,
