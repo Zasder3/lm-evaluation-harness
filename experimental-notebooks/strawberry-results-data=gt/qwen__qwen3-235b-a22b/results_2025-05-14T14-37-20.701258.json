@@ -1,0 +1,143 @@
+{
+  "results": {
+    "strawberry": {
+      "alias": "strawberry",
+      "exact_match,strict-match": 0.0,
+      "exact_match_stderr,strict-match": 0.0,
+      "exact_match,flexible-extract": 0.007,
+      "exact_match_stderr,flexible-extract": 0.002637794146243753
+    }
+  },
+  "group_subtasks": {
+    "strawberry": []
+  },
+  "configs": {
+    "strawberry": {
+      "task": "strawberry",
+      "dataset_path": "csv",
+      "dataset_kwargs": {
+        "data_files": {
+          "train": "lm_eval/tasks/dummy_task/dummy_data.csv"
+        }
+      },
+      "training_split": "train",
+      "test_split": "train",
+      "process_docs": "def process_docs(dataset: datasets.Dataset) -> datasets.Dataset:\n    \"\"\"Process the palindrome CSV dataset.\"\"\"\n    # If you're working with a raw CSV instead of a dataset\n    # You could use this approach instead of the dataset.map method\n    if isinstance(dataset, dict):\n        # Convert raw data to a proper dataset\n        df = pd.DataFrame(dataset)\n        processed_dataset = Dataset.from_pandas(df)\n        return processed_dataset\n\n    # If already working with a dataset, just ensure it has the right format\n    return dataset\n",
+      "doc_to_text": "Q: {{question}}\nA: Let's think step by step.",
+      "doc_to_target": "{{answer}}",
+      "unsafe_code": false,
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "exact_match",
+          "aggregation": "mean",
+          "higher_is_better": true,
+          "ignore_case": true,
+          "ignore_punctuation": false,
+          "regexes_to_ignore": [
+            ",",
+            "\\$",
+            "(?s).*#### ",
+            "\\.$"
+          ]
+        }
+      ],
+      "output_type": "generate_until",
+      "generation_kwargs": {
+        "until": [
+          "Question:",
+          "</s>",
+          "<|im_end|>"
+        ],
+        "do_sample": false
+      },
+      "repeats": 1,
+      "filter_list": [
+        {
+          "name": "strict-match",
+          "filter": [
+            {
+              "function": "regex",
+              "regex_pattern": "The answer is (\\-?[0-9\\.\\,]+)."
+            },
+            {
+              "function": "take_first"
+            }
+          ]
+        },
+        {
+          "name": "flexible-extract",
+          "filter": [
+            {
+              "function": "regex",
+              "group_select": -1,
+              "regex_pattern": "(-?[$0-9.,]{2,})|(-?[0-9]+)"
+            },
+            {
+              "function": "take_first"
+            }
+          ]
+        }
+      ],
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0,
+        "model": "qwen/qwen3-235b-a22b",
+        "num_concurrent": 64
+      }
+    }
+  },
+  "versions": {
+    "strawberry": 1.0
+  },
+  "n-shot": {
+    "strawberry": 0
+  },
+  "higher_is_better": {
+    "strawberry": {
+      "exact_match": true
+    }
+  },
+  "n-samples": {
+    "strawberry": {
+      "original": 1000,
+      "effective": 1000
+    }
+  },
+  "config": {
+    "model": "openrouter-chat",
+    "model_args": "model=qwen/qwen3-235b-a22b,,num_concurrent=64",
+    "batch_size": 1,
+    "batch_sizes": [],
+    "device": null,
+    "use_cache": null,
+    "limit": null,
+    "bootstrap_iters": 100000,
+    "gen_kwargs": null,
+    "random_seed": 0,
+    "numpy_seed": 1234,
+    "torch_seed": 1234,
+    "fewshot_seed": 1234
+  },
+  "git_hash": "6acfe9d3",
+  "date": 1747258323.653773,
+  "pretty_env_info": "'NoneType' object has no attribute 'splitlines'",
+  "transformers_version": "4.51.3",
+  "lm_eval_version": "0.4.8",
+  "upper_git_hash": "52bba880b5304ea4e94129bebb8505bad7fd66c4",
+  "task_hashes": {},
+  "model_source": "openrouter-chat",
+  "model_name": "qwen/qwen3-235b-a22b",
+  "model_name_sanitized": "qwen__qwen3-235b-a22b",
+  "system_instruction": null,
+  "system_instruction_sha": null,
+  "fewshot_as_multiturn": false,
+  "chat_template": "",
+  "chat_template_sha": null,
+  "start_time": 9.698824333,
+  "end_time": 328.656685708,
+  "total_evaluation_time_seconds": "318.957861375"
+}
